@@ -9,12 +9,20 @@
  */
 {
   "sections": {
-    "empty_section": {
-      "type": "empty-section",
+    "header": {
+      "type": "header",
       "settings": {}
-    }
+    },
+    "main": {
+      "type": "main",
+      "settings": {}
+    },
+    "footer": {
+      "type": "footer",
+      "settings": {}
+    },
   },
   "order": [
-    "empty_section"
+    "header", "main", "footer"
   ]
 }

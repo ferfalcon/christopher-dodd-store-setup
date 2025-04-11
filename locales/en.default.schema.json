@@ -7,8 +7,8 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
-	"general": {
-	  "welcome": "Welcome to our store!"
-	}
+{
+  "general": {
+    "welcome": "Welcome to our store!"
   }
+}
